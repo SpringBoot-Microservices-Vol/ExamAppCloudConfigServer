@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.exam.api.config.ExamAppCloudConfigServerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.987 s - in com.exam.api.config.ExamAppCloudConfigServerApplicationTests
